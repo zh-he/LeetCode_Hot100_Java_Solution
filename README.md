@@ -1,2 +1,2 @@
-# LeetCode_java_solution
-记录Leetcode刷题过程，使用java
+# LeetCode_Hot100_Java_Solution
+## 记录Leetcode hot100的java题解
