@@ -26,7 +26,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | ---- | ---- |
 | 198 | [打家劫舍](https://leetcode.cn/problems/house-robber/?envType=problem-list-v2&envId=2cktkvj&) |
 | 238 | [除自身数组以外的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 221 | [最大正方形]((https://leetcode.cn/problems/maximal-square/description/?envType=problem-list-v2&envId=2cktkvj)) |
+| 221 | [最大正方形](https://leetcode.cn/problems/maximal-square/description/?envType=problem-list-v2&envId=2cktkvj) |
 | 152 | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/description/?envType=problem-list-v2&envId=2cktkvj&) |
 | 139 | [单词拆分](https://leetcode.cn/problems/word-break/description/?envType=problem-list-v2&envId=2cktkvj&) |
 | 647 | [回文子串](https://leetcode.cn/problems/palindromic-substrings/?envType=problem-list-v2&envId=2cktkvj&) |
@@ -55,14 +55,14 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 
 | **题号** | **题目**                                                     |
 | -------- | ------------------------------------------------------------ |
-| 160      | [相交链表]([160. 相交链表 - 力扣（LeetCode）](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/?envType=problem-list-v2&envId=2cktkvj)) |
+| 160      | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/?envType=problem-list-v2&envId=2cktkvj) |
 | 234      | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/?envType=problem-list-v2&envId=2cktkvj) |
 | 206      | [反转链表](https://leetcode.cn/problems/reverse-linked-list/?envType=problem-list-v2&envId=2cktkvj) |
 | 148      | [排序链表 ](https://leetcode.cn/problems/sort-list/?envType=problem-list-v2&envId=2cktkvj) |
 | 146      | [LRU 缓存 ](https://leetcode.cn/problems/lru-cache/?envType=problem-list-v2&envId=2cktkvj) |
 | 142      | [环形链表II](https://leetcode.cn/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=2cktkvj) |
 | 141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=2cktkvj) |
-| 23       | [ 合并 K 个升序链表 ]((https://leetcode.cn/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=2cktkvj)) |
+| 23       | [ 合并 K 个升序链表 ](https://leetcode.cn/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=2cktkvj) |
 | 21       | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/?envType=problem-list-v2&envId=2cktkvj) |
 | 114      | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) |
 | 19       | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) |
@@ -101,7 +101,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | 题号 | 题目                                                         |
 | ---- | ------------------------------------------------------------ |
 | 406  | [根据身高重建队列](https://leetcode.cn/problems/queue-reconstruction-by-height/) |
-| 253  | [会议室]([253. 会议室 II - 力扣（LeetCode）](https://leetcode.cn/problems/meeting-rooms-ii/description/?envType=problem-list-v2&envId=2cktkvj)) |
+| 253  | [会议室](https://leetcode.cn/problems/meeting-rooms-ii/description/?envType=problem-list-v2&envId=2cktkvj) |
 | 621  | [任务调度器](https://leetcode.cn/problems/task-scheduler/)   |
 
 ### 优先队列
