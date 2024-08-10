@@ -33,7 +33,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | 322  | [零钱兑换](https://leetcode.cn/problems/coin-change/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/322.%20零钱兑换.md)                   |
 | 494  | [目标和](https://leetcode.cn/problems/coin-change/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/494.%20目标和.md)                     |
 | 416  | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/416.%20分割等和子集.md)               |
-| 337  | [打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/337.%20打家劫舍 III.md)               |
+| 337  | [打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/337.%20打家劫舍%20III.md)               |
 | 312  | [戳气球](https://leetcode.cn/problems/burst-balloons/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/312.%20戳气球.md)                     |
 | 309  | [买卖股票的最佳时期含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/309.%20买卖股票的最佳时机含冷冻期.md) |
 | 300  | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/300.%20最长递增子序列.md)             |
@@ -59,13 +59,13 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | 234      | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/234.%20回文链表.md)                 |
 | 206      | [反转链表](https://leetcode.cn/problems/reverse-linked-list/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/206.%20反转链表.md)                 |
 | 148      | [排序链表 ](https://leetcode.cn/problems/sort-list/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/148.%20排序链表.md)                 |
-| 146      | [LRU 缓存 ](https://leetcode.cn/problems/lru-cache/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/146.%20LRU 缓存.md)                 |
-| 142      | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/142.%20环形链表 II.md)              |
+| 146      | [LRU 缓存 ](https://leetcode.cn/problems/lru-cache/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/146.%20LRU%20缓存.md)                 |
+| 142      | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/142.%20环形链表%20II.md)              |
 | 141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/141.%20环形链表.md)                 |
-| 23       | [ 合并 K 个升序链表 ](https://leetcode.cn/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/23.%20合并 K 个升序链表.md)         |
+| 23       | [ 合并 K 个升序链表 ](https://leetcode.cn/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/23.%20合并%20K%20个升序链表.md)         |
 | 21       | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/21.%20合并两个有序链表.md)          |
 | 114      | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [Java](Leetcode/链表/114.%20二叉树展开为链表.md)         |
-| 19       | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | [Java](Leetcode/链表/19.%20删除链表的倒数第 N 个结点.md) |
+| 19       | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | [Java](Leetcode/链表/19.%20删除链表的倒数第%20N%20个结点.md) |
 | 2        | [两数相加](https://leetcode.cn/problems/add-two-numbers/)    | [Java](Leetcode/链表/2.%20两数相加.md)                   |
 
 ### 单调栈
@@ -83,7 +83,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | ---- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | 207  | [课程表 ](https://leetcode.cn/problems/course-schedule/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/构建数据结构/207.%20课程表.md)             |
 | 399  | [除法求值](https://leetcode.cn/problems/evaluate-division/)  | [Java](Leetcode/构建数据结构/399.%20除法求值.md)           |
-| 208  | [实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) | [Java](Leetcode/构建数据结构/208.%20实现 Trie (前缀树).md) |
+| 208  | [实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) | [Java](Leetcode/构建数据结构/208.%20实现%20Trie%20(前缀树).md) |
 
 ### 二进制
 
@@ -109,7 +109,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | 题目 | 题号                                                         | 题解                                                 |
 | ---- | ------------------------------------------------------------ | ---------------------------------------------------- |
 | 239  | [滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | [Java](Leetcode/优先队列/239.%20滑动窗口最大值.md)   |
-| 23   | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | [Java](Leetcode/优先队列/23.%20合并 K 个升序链表.md) |
+| 23   | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | [Java](Leetcode/优先队列/23.%20合并%20K%20个升序链表.md) |
 
 ### 回溯
 
@@ -143,7 +143,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | 215  | [ 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | [Java](Leetcode/数组/215.%20数组中的第K个最大元素.md)        |
 | 287  | [寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/) | [Java](Leetcode/数组/287.%20寻找重复数.md)                   |
 | 283  | [移动零](https://leetcode.cn/problems/move-zeroes/)          | [Java](Leetcode/数组/283.%20移动零.md)                       |
-| 240  | [搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | [Java](Leetcode/数组/240.%20搜索二维矩阵 II.md)              |
+| 240  | [搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | [Java](Leetcode/数组/240.%20搜索二维矩阵%20II.md)              |
 
 ### 二叉树
 
@@ -165,7 +165,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | 101  | [对称二叉树](https://leetcode.cn/problems/symmetric-tree/)   | [Java](Leetcode/二叉树/101.%20对称二叉树.md)                 |
 | 98   | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | [Java](Leetcode/二叉树/98.%20验证二叉搜索树.md)              |
 | 96   | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | [Java](Leetcode/二叉树/96.%20不同的二叉搜索树.md)            |
-| 437  | [路径总和 III](https://leetcode.cn/problems/path-sum-iii/)   | [Java](Leetcode/二叉树/437.%20路径总和 III.md)               |
+| 437  | [路径总和 III](https://leetcode.cn/problems/path-sum-iii/)   | [Java](Leetcode/二叉树/437.%20路径总和%20III.md)               |
 | 94   | [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | [Java](Leetcode/二叉树/94.%20二叉树的中序遍历.md)            |
 
 ### 栈、队列、HashMap()、HashSet()
