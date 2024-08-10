@@ -9,7 +9,7 @@
 Arrays.sort()自定义排序，PriorityQueue()自定义排序。
 
 | 数据结构 | 常用方法 |
-| ---- | ---- |
+| :---- | :---- |
 | List | add()，remove() |
 | HashMap | put()，size()，remove()，containsKey() |
 | HashSet | add()，remove()，size()，contains() |
@@ -22,7 +22,7 @@ Arrays.sort()自定义排序，PriorityQueue()自定义排序。
 dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包。
 
 | 题号 | 题目                                                         | 题解                                                     |
-| :--- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| :--- | :------------------------------------------------------------ | :-------------------------------------------------------- |
 | 198  | [打家劫舍](https://leetcode.cn/problems/house-robber/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/198.%20打家劫舍.md)                   |
 | 238  | [除自身数组以外的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/238.%20除自身以外数组的乘积.md)       |
 | 221  | [最大正方形](https://leetcode.cn/problems/maximal-square/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/dp/221.%20最大正方形.md)                 |
@@ -53,7 +53,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 链表的题目往往使用虚拟头结点的方法，以避免对头结点为空的情况进行特判。做链表的题目是，我们需要记住的是链表的增删节点都是使用的双指针
 
 | **题号** | **题目**                                                     | 题解                                                     |
-| -------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| :-------- | :------------------------------------------------------------ | :-------------------------------------------------------- |
 | 160      | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/160.%20相交链表.md)                 |
 | 234      | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/234.%20回文链表.md)                 |
 | 206      | [反转链表](https://leetcode.cn/problems/reverse-linked-list/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/206.%20反转链表.md)                 |
@@ -72,7 +72,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 单调栈按照从栈底到栈顶的大小变化可以分为单调递增栈和单调递减栈。单调栈中存储的是元素的索引。
 
 | 题号 | 题目                                                         | 题解                                                |
-| ---- | ------------------------------------------------------------ | --------------------------------------------------- |
+| :---- | :------------------------------------------------------------ | :--------------------------------------------------- |
 | 739  | [ 每日温度 ](https://leetcode.cn/problems/daily-temperatures/submissions/543113746/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/单调栈/739.%20每日温度.md)          |
 | 84   | [柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/) | [Java](Leetcode/单调栈/84.%20柱状图中最大的矩形.md) |
 
@@ -81,7 +81,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 构建特殊数据结构。
 
 | 题号 | 题目                                                         | 题解                                                       |
-| ---- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| :---- | :------------------------------------------------------------ | :---------------------------------------------------------- |
 | 207  | [课程表 ](https://leetcode.cn/problems/course-schedule/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/构建数据结构/207.%20课程表.md)             |
 | 399  | [除法求值](https://leetcode.cn/problems/evaluate-division/)  | [Java](Leetcode/构建数据结构/399.%20除法求值.md)           |
 | 208  | [实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) | [Java](Leetcode/构建数据结构/208.%20实现%20Trie%20(前缀树).md) |
@@ -91,7 +91,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 ^异或：任何数^自身 = 0，^0不变；&1：判断末尾数是否为1；>>：向右位移1位，<<：向左位移1位。
 
 | 题号 | 题目                                                         | 题解                                         |
-| ---- | ------------------------------------------------------------ | -------------------------------------------- |
+| :---- | :------------------------------------------------------------ | :-------------------------------------------- |
 | 461  | [汉明距离](https://leetcode.cn/problems/hamming-distance/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/二进制/461.%20汉明距离.md)   |
 | 338  | [比特位计数](https://leetcode.cn/problems/counting-bits/)    | [Java](Leetcode/二进制/338.%20比特位计数.md) |
 
@@ -100,7 +100,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 通过局部最优，得到全局最优，需要会自定义排序，建议使用lamda表达式。
 
 | 题号 | 题目                                                         | 题解                                             |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------ |
+| :---- | :------------------------------------------------------------ | :------------------------------------------------ |
 | 406  | [根据身高重建队列](https://leetcode.cn/problems/queue-reconstruction-by-height/) | [Java](Leetcode/贪心/406.%20根据身高重建队列.md) |
 | 253  | [会议室II](https://leetcode.cn/problems/meeting-rooms-ii/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/贪心/253.%20会议室II.md)         |
 | 621  | [任务调度器](https://leetcode.cn/problems/task-scheduler/)   | [Java](Leetcode/贪心/621.%20任务调度器.md)       |
@@ -110,7 +110,7 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 PriorityQueue是底层是堆排序。
 
 | 题目 | 题号                                                         | 题解                                                 |
-| ---- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| :---- | :------------------------------------------------------------ | :---------------------------------------------------- |
 | 239  | [滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | [Java](Leetcode/优先队列/239.%20滑动窗口最大值.md)   |
 | 23   | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | [Java](Leetcode/优先队列/23.%20合并%20K%20个升序链表.md) |
 
@@ -119,7 +119,7 @@ PriorityQueue是底层是堆排序。
 回溯三要素：1.传递的参数和返回类型；2.终止条件；3.回溯的逻辑。
 
 | 题号 | 题目                                                         | 题解                                              |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------- |
+| :---- | :------------------------------------------------------------ | :------------------------------------------------- |
 | 22   | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | [Java](Leetcode/回溯/22.%20括号生成.md)           |
 | 46   | [全排列](https://leetcode.cn/problems/permutations/)         | [Java](Leetcode/回溯/46.%20全排列.md)             |
 | 17   | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | [Java](Leetcode/回溯/17.%20电话号码的字母组合.md) |
@@ -131,7 +131,7 @@ PriorityQueue是底层是堆排序。
 需要会二分法的使用和双指针、滑动窗口。
 
 | 题号 | 题目                                                         | 题解                                                         |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :---- | :------------------------------------------------------------ | :------------------------------------------------------------ |
 | 48   | [旋转图像](https://leetcode.cn/problems/rotate-image/)       | [Java](Leetcode/数组/48.%20旋转图像.md)                      |
 | 33   | [ 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | [Java](Leetcode/数组/33.%20搜索旋转排序数组.md)              |
 | 34   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](Leetcode/数组/34.%20在排序数组中查找元素的第一个和最后一个位置.md) |
@@ -153,7 +153,7 @@ PriorityQueue是底层是堆排序。
 需要会前中后序遍历的递归、迭代实现和层序遍历。
 
 | 题号 | 题目                                                         | 题解                                                         |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :---- | :------------------------------------------------------------ | :------------------------------------------------------------ |
 | 236  | [二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](Leetcode/二叉树/236.%20二叉树的最近公共祖先.md)       |
 | 226  | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | [Java](Leetcode/二叉树/226.%20翻转二叉树.md)                 |
 | 124  | [二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | [Java](Leetcode/二叉树/124.%20二叉树中的最大路径和.md)       |
@@ -176,7 +176,7 @@ PriorityQueue是底层是堆排序。
 栈、队列、HashMap和HashSet的常见方法需要会使用。
 
 | 题号 | 题目                                                         | 题解                                                         |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :---- | :------------------------------------------------------------ | :------------------------------------------------------------ |
 | 169  | [多数元素](https://leetcode.cn/problems/majority-element/)   | [Java](Leetcode/栈、队列、HashMap()、HashSet()/169.%20多数元素.md) |
 | 128  | [最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | [Java](Leetcode/栈、队列、HashMap()、HashSet()/128.%20最长连续序列.md) |
 | 438  | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | [Java](Leetcode/栈、队列、HashMap()、HashSet()/438.%20找到字符串中所有字母异位词.md) |
@@ -192,7 +192,7 @@ PriorityQueue是底层是堆排序。
 广度优先搜索：从起始位置开始，逐层遍历（按照距离）所有可能到达的位置。
 
 | 题号 | 题目                                                        | 题解                                                         |
-| ---- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| :---- | :----------------------------------------------------------- | :------------------------------------------------------------ |
 | 79   | [单词搜索](https://leetcode.cn/problems/word-search/)       | [Java](Leetcode/深度优先搜索和广度优先搜索/79.%20单词搜索.md) |
 | 200  | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | [Java](Leetcode/深度优先搜索和广度优先搜索/200.%20岛屿数量.md) |
 
