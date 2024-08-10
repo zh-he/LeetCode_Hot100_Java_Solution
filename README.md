@@ -22,32 +22,32 @@ Arrays.sort()自定义排序，PriorityQueue()自定义排序。
 dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包。
 深度优先搜索和广度优先搜索：深度优先搜索就是按照既定的顺序在一个方向上搜到底，在回溯到上一个位置，按照顺序进行下一个方向的搜索；广度优先搜索是每一次搜索所有相邻的位置，以起点为中心，向周围扩散
 
-| 题号 | 题目                                                         |
-| :--- | ------------------------------------------------------------ |
-| 198  | [打家劫舍](https://leetcode.cn/problems/house-robber/?envType=problem-list-v2&envId=2cktkvj&) |
-| 238  | [除自身数组以外的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 221  | [最大正方形](https://leetcode.cn/problems/maximal-square/description/?envType=problem-list-v2&envId=2cktkvj) |
-| 152  | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 139  | [单词拆分](https://leetcode.cn/problems/word-break/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 647  | [回文子串](https://leetcode.cn/problems/palindromic-substrings/?envType=problem-list-v2&envId=2cktkvj&) |
-| 332  | [零钱兑换](https://leetcode.cn/problems/coin-change/?envType=problem-list-v2&envId=2cktkvj&) |
-| 494  | [目标和](https://leetcode.cn/problems/coin-change/?envType=problem-list-v2&envId=2cktkvj&) |
-| 416  | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 337  | [打家劫舍III](https://leetcode.cn/problems/house-robber-iii/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 312  | [戳气球](https://leetcode.cn/problems/burst-balloons/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 309  | [买卖股票的最佳时期含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/?envType=problem-list-v2&envId=2cktkvj&) |
-| 300  | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/?envType=problem-list-v2&envId=2cktkvj&) |
-| 279  | [完全平方数](https://leetcode.cn/problems/perfect-squares/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 42   | [接雨水](https://leetcode.cn/problems/trapping-rain-water/?envType=problem-list-v2&envId=2cktkvj&) |
-| 32   | [最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 10   | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 5    | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 96   | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 85   | [最大矩形](https://leetcode.cn/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 72   | [编辑距离](https://leetcode.cn/problems/edit-distance/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 62   | [不同路径](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/description/?envType=problem-list-v2&envId=2cktkvj&) |
-| 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/?envType=problem-list-v2&envId=2cktkvj&) |
+| 题号 | 题目                                                         | 题解                                                      |
+| :--- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 198  | [打家劫舍](https://leetcode.cn/problems/house-robber/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/198.%20打家劫舍.md)                    |
+| 238  | [除自身数组以外的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/238.%20除自身数组以外的乘积.md)        |
+| 221  | [最大正方形](https://leetcode.cn/problems/maximal-square/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/dp/221.%20最大正方形md)                   |
+| 152  | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/152.%20乘积最大子数组.md)              |
+| 139  | [单词拆分](https://leetcode.cn/problems/word-break/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/139.%20单词拆分.md)                    |
+| 647  | [回文子串](https://leetcode.cn/problems/palindromic-substrings/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/647.%20回文子串.md)                    |
+| 332  | [零钱兑换](https://leetcode.cn/problems/coin-change/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/332.%20零钱兑换.md)                    |
+| 494  | [目标和](https://leetcode.cn/problems/coin-change/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/494.%20目标和.md)                      |
+| 416  | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/416.%20分割等和子集.md)                |
+| 337  | [打家劫舍III](https://leetcode.cn/problems/house-robber-iii/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/337.%20打家劫舍III.md)                 |
+| 312  | [戳气球](https://leetcode.cn/problems/burst-balloons/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/312.%20戳气球.md)                      |
+| 309  | [买卖股票的最佳时期含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/309.%203买卖股票的最佳时期含冷冻期.md) |
+| 300  | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/300.%20最长递增子序列.md)              |
+| 279  | [完全平方数](https://leetcode.cn/problems/perfect-squares/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/279.%20完全平方数.md)                  |
+| 42   | [接雨水](https://leetcode.cn/problems/trapping-rain-water/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/42.%20接雨水.md)                       |
+| 32   | [最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/32.%20最长有效括号.md)                 |
+| 10   | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/10.%20正则表达式匹配.md)               |
+| 5    | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/5.%20最长回文子串md)                   |
+| 96   | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/96.%20不同的二叉搜索树.md)             |
+| 85   | [最大矩形](https://leetcode.cn/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/85.%20最大矩形.md)                     |
+| 72   | [编辑距离](https://leetcode.cn/problems/edit-distance/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/72.%20编辑距离.md)                     |
+| 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/70.%20爬楼梯.md)                       |
+| 62   | [不同路径](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/description/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/62.%20最大路径.md)                     |
+| 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/?envType=problem-list-v2&envId=2cktkvj&) | [Java](Leetcode/dp/53.%20最大子数组和.md)                 |
 
 ### 链表
 
@@ -192,5 +192,4 @@ dp的含义，递推公式，初始化，遍历顺序。01背包和完全背包�
 | ---- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | 79   | [单词搜索](https://leetcode.cn/problems/word-search/)       | [Java](Leetcode/深度优先搜索和广度优先搜索/79.%20单词搜索.md) |
 | 200  | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | [Java](Leetcode/深度优先搜索和广度优先搜索/200.%20岛屿数量.md) |
-                                                             |
 
