@@ -1,11 +1,11 @@
 # LeetCode_Hot100_Java_Solution
-## 我将Leetcode hot 1000题目按照类型分类。部分题目可能属于多个类型。
+## 本文将Leetcode hot 100题目按照类型分类。部分题目可能属于多个类型。
 刷leetcode hot 100以前需要了解一些基础知识：
 
 - 常见排序：冒泡排序，插入排序，选择排序，归并排序，快速排序，堆排序。 
   时间复杂度为O(nlogn)：归并排序和堆排序。快速排序时间复杂度最好的情况下是O(nlogn)，最坏的情况下是O(n^2)。
 - 字符串的常用方法：length()，substring()，spilt()。 StringBuffer()的常用方法：deleteCharAt()，reverse()，toString()，append()，insert。
-- 常用数据结构：List，HashMap，HashSet，PriorityQueue，stack，queue。
+- 常用数据结构及其常用方法：List，HashMap，HashSet，PriorityQueue，stack，queue。
 - Arrays.sort()自定义排序，PriorityQueue()自定义排序。
 
 | 数据结构 | 常用方法 |
