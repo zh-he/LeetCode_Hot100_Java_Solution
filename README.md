@@ -1,3 +1,5 @@
+
+
 # LeetCode_Hot100_Java_Solution
 ## 本文将Leetcode hot 100题目按照类型分类。部分题目可能属于多个类型。
 刷leetcode hot 100以前需要了解一些基础知识：
@@ -63,7 +65,7 @@
 | 148      | [排序链表 ](https://leetcode.cn/problems/sort-list/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/148.%20排序链表.md)                 |
 | 146      | [LRU 缓存 ](https://leetcode.cn/problems/lru-cache/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/146.%20LRU%20缓存.md)                 |
 | 142      | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/142.%20环形链表%20II.md)              |
-| 141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle-ii/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/141.%20环形链表.md)                 |
+| 141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/141.%20环形链表.md)                 |
 | 23       | [ 合并 K 个升序链表 ](https://leetcode.cn/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/23.%20合并%20K%20个升序链表.md)         |
 | 21       | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/?envType=problem-list-v2&envId=2cktkvj) | [Java](Leetcode/链表/21.%20合并两个有序链表.md)          |
 | 114      | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [Java](Leetcode/链表/114.%20二叉树展开为链表.md)         |
@@ -201,4 +203,3 @@
 | :---- | :----------------------------------------------------------- | :------------------------------------------------------------ |
 | 79   | [单词搜索](https://leetcode.cn/problems/word-search/)       | [Java](Leetcode/深度优先搜索和广度优先搜索/79.%20单词搜索.md) |
 | 200  | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | [Java](Leetcode/深度优先搜索和广度优先搜索/200.%20岛屿数量.md) |
-
